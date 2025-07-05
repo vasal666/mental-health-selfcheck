@@ -54,3 +54,6 @@ git clone https://github.com/vasal666/mental-health-selfcheck.git
 cd mental-health-selfcheck
 pip install -r requirements.txt
 streamlit run app.py
+
+here is the public link for the website for testing
+https://mental-health-selfcheck.streamlit.app/
